@@ -1,0 +1,11 @@
+
+.countsContainer {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .countsText {
+    color: #3F51B5;
+    font-size: 24px;
+    margin: 0;
+  }
